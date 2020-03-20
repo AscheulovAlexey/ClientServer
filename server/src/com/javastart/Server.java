@@ -1,9 +1,9 @@
-package com.javastart.server;
+package com.javastart;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.javastart.server.Entity.Account;
-import com.javastart.server.Entity.Payment;
-import com.javastart.server.Service.DataBaseService;
+import com.javastart.Entity.Account;
+import com.javastart.Entity.Payment;
+import com.javastart.Service.DataBaseService;
 
 import java.io.*;
 import java.net.ServerSocket;

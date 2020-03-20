@@ -1,4 +1,4 @@
-package com.javastart.server.Entity;
+package com.javastart.Entity;
 
 public class Payment {
 

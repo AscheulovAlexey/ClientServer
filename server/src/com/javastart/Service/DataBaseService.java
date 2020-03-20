@@ -1,7 +1,7 @@
-package com.javastart.server.Service;
+package com.javastart.Service;
 
-import com.javastart.server.Entity.Account;
-import com.javastart.server.Entity.Payment;
+import com.javastart.Entity.Account;
+import com.javastart.Entity.Payment;
 
 import java.sql.*;
 

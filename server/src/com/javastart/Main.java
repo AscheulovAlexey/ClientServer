@@ -1,6 +1,4 @@
-package com.javastart.server;
-
-import com.javastart.server.Service.DataBaseService;
+package com.javastart;
 
 import java.sql.SQLException;
 import java.io.IOException;
